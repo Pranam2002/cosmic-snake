@@ -1,0 +1,20 @@
+# Core libs
+gql==3.4.1
+requests==2.31.0
+
+# Rendering
+cairosvg==2.7.1
+pillow==10.2.0
+imageio==2.34.0
+
+# Snake AI
+networkx==3.3
+
+# CLI & Styling
+typer==0.12.3
+rich==13.7.1
+
+# Dev Tools
+pytest==8.2.1
+black==24.4.2
+ruff==0.4.4
